@@ -1,14 +1,14 @@
 /* General page styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #d6c774;
     margin: 0;
     padding: 0;
 }
 
 /* Header section styling */
 header {
-    background: #333;
+    background: #005035;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -26,8 +26,8 @@ header nav {
 }
 
 header nav button {
-    background: #007BFF;
-    color: white;
+    background: #d6c774;
+    color: #555;
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
@@ -77,7 +77,7 @@ h2 {
 
 /* Button styling */
 button {
-    background: #007BFF;
+    background: #005035;
     color: white;
     border: none;
     padding: 10px 15px;
