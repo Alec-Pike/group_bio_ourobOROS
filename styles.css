@@ -91,8 +91,9 @@ button:hover {
     color: white;
 }
 
+/* Styling for team avatar images */
 .avatar {
-    width: 150px; /* Adjust the size as needed */
+    width: 150px;
     height: 150px;
     margin-top: 10px;
 }
