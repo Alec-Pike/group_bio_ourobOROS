@@ -90,3 +90,10 @@ button:hover {
     background: #85794a;
     color: white;
 }
+
+/* Styling for team avatar images */
+.avatar {
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+}
