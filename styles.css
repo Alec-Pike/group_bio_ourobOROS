@@ -1,7 +1,7 @@
 /* General page styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #d6c774;
+    background-color: #A49665;
     margin: 0;
     padding: 0;
 }
@@ -26,8 +26,8 @@ header nav {
 }
 
 header nav button {
-    background: #d6c774;
-    color: #555;
+    background: #A49665;
+    color: black;
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
@@ -36,7 +36,8 @@ header nav button {
 }
 
 header nav button:hover {
-    background: #0056b3;
+    background: #5e5636;
+    color: white;
 }
 
 /* Flex container for team bios and vision sections */
@@ -86,5 +87,6 @@ button {
 }
 
 button:hover {
-    background: #0056b3;
+    background: #85794a;
+    color: white;
 }
