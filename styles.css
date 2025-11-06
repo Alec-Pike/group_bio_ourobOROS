@@ -90,3 +90,9 @@ button:hover {
     background: #85794a;
     color: white;
 }
+
+.avatar {
+    width: 150px; /* Adjust the size as needed */
+    height: 150px;
+    margin-top: 10px;
+}
